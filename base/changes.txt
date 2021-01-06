@@ -6,6 +6,11 @@ completeness or accuracy and it contains some references to files that
 are not part of the distribution.
 ================================================================================
 
+2021-01-06  Marcel Krüger  <Marcel.Krueger@latex-project.org>
+
+	* ltshipout.dtx:
+	Define and call Lua callback pre_shipout_filter.
+
 2020-12-22  Frank Mittelbach  <Frank.Mittelbach@latex-project.org>
 
 	* ltfssaxes.dtx (subsection{Changing to a new series}):
